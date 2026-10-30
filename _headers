@@ -1,5 +1,7 @@
-
 /dianshi.json
+  Cache-Control: public, max-age=60, s-maxage=300, must-revalidate
+
+/jsm.json
   Cache-Control: public, max-age=60, s-maxage=300, must-revalidate
 
 /*
