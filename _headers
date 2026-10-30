@@ -1,0 +1,6 @@
+
+/dianshi.json
+  Cache-Control: public, max-age=60, s-maxage=300, must-revalidate
+
+/*
+  Cache-Control: public, max-age=3600
